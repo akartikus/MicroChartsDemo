@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:forms="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+			 x:Class="MicroChartsDemo.MainPage">
+    <ScrollView>
+
+        <StackLayout Orientation="Vertical">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="6*" />
+                    <ColumnDefinition Width="1*" />
+                    <ColumnDefinition Width="2*" />
+                </Grid.ColumnDefinitions>
+                <Label TextColor="#06c406" Grid.Row="0" Grid.Column="0">ECG</Label>
+                <StackLayout Grid.Row="0" Grid.Column="1">
+                    <forms:ChartView x:Name="Chart1"  HeightRequest="150"/>
+                </StackLayout>
+                <Label TextColor="#06c406" Grid.Row="0" Grid.Column="2">HR</Label>
+                <StackLayout  Grid.Row="0" Grid.Column="3" Orientation="Vertical">
+                    <Label TextColor="#06c406">80</Label>
+                    <Label TextColor="#06c406">bpm</Label>
+                </StackLayout>
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*" />
+                    <ColumnDefinition Width="6*" />
+                    <ColumnDefinition Width="2*" />
+                    <ColumnDefinition Width="2*" />
+                </Grid.ColumnDefinitions>
+                <Label TextColor="#fcfc30" Grid.Row="0" Grid.Column="0">Pleth</Label>
+                <StackLayout Grid.Row="0" Grid.Column="1">
+                    <forms:ChartView x:Name="Chart2"  HeightRequest="150"/>
+                </StackLayout>
+                <Label  TextColor="#fcfc30" Grid.Row="0" Grid.Column="2">Sp02</Label>
+                <StackLayout  Grid.Row="0" Grid.Column="3" Orientation="Vertical">
+                    <Label TextColor="#fcfc30" >98</Label>
+                    <Label TextColor="#fcfc30">%</Label>
+                </StackLayout>
+            </Grid>
+            <Button Text="New data 1" 
+                        Clicked="OnButtonClicked"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

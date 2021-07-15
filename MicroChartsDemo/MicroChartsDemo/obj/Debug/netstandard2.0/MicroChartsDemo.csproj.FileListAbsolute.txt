@@ -1,0 +1,13 @@
+C:\Users\sitra\source\repos\MicroChartsDemo\MicroChartsDemo\MicroChartsDemo\bin\Debug\netstandard2.0\MicroChartsDemo.deps.json
+C:\Users\sitra\source\repos\MicroChartsDemo\MicroChartsDemo\MicroChartsDemo\bin\Debug\netstandard2.0\MicroChartsDemo.dll
+C:\Users\sitra\source\repos\MicroChartsDemo\MicroChartsDemo\MicroChartsDemo\bin\Debug\netstandard2.0\ref\MicroChartsDemo.dll
+C:\Users\sitra\source\repos\MicroChartsDemo\MicroChartsDemo\MicroChartsDemo\bin\Debug\netstandard2.0\MicroChartsDemo.pdb
+C:\Users\sitra\source\repos\MicroChartsDemo\MicroChartsDemo\MicroChartsDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sitra\source\repos\MicroChartsDemo\MicroChartsDemo\MicroChartsDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sitra\source\repos\MicroChartsDemo\MicroChartsDemo\MicroChartsDemo\obj\Debug\netstandard2.0\MicroChartsDemo.AssemblyInfoInputs.cache
+C:\Users\sitra\source\repos\MicroChartsDemo\MicroChartsDemo\MicroChartsDemo\obj\Debug\netstandard2.0\MicroChartsDemo.AssemblyInfo.cs
+C:\Users\sitra\source\repos\MicroChartsDemo\MicroChartsDemo\MicroChartsDemo\obj\Debug\netstandard2.0\MicroChartsDemo.csproj.CoreCompileInputs.cache
+C:\Users\sitra\source\repos\MicroChartsDemo\MicroChartsDemo\MicroChartsDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sitra\source\repos\MicroChartsDemo\MicroChartsDemo\MicroChartsDemo\obj\Debug\netstandard2.0\MicroChartsDemo.dll
+C:\Users\sitra\source\repos\MicroChartsDemo\MicroChartsDemo\MicroChartsDemo\obj\Debug\netstandard2.0\ref\MicroChartsDemo.dll
+C:\Users\sitra\source\repos\MicroChartsDemo\MicroChartsDemo\MicroChartsDemo\obj\Debug\netstandard2.0\MicroChartsDemo.pdb
